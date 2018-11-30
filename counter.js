@@ -1,7 +1,9 @@
  var button = document.getElementById("button").value
  var counter = []
 
-
+/*******************************************
+This is the js code for the word counter
+*******************************************/
 
 /*function move(x) {
 var libro = document.getElementById("hola").value
@@ -57,6 +59,8 @@ alert("The length of this text is " + yes  + ' words')
 }
 chill()
 }
+
+
 
 
 
