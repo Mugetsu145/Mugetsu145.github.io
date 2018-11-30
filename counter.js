@@ -44,7 +44,6 @@ var helios = saya.filter(random =>{
 var passed = yes.filter(espacio => {
 	return  espacio  == ''
 })
-alert(saya)
 if( yes == ','){
 alert('you have 0 words')
 }
